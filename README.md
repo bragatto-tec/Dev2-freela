@@ -4,7 +4,6 @@
 * Davi Barros Figueredo de Paiva - 10385766
 * Eduardo Kenzo Okada - 10723321
 * Guilherme Miyamoto Bragatto - 10736124
-* Pedro Henrique Lopes Sabainsk - 10735777
 
 ---
 
